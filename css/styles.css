@@ -1,0 +1,117 @@
+body{
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 0 auto;
+  font-family: 'Satisfy', cursive;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+p{
+  font-family: 'Trade Winds', cursive;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+
+}
+.language-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+
+}
+
+
+.proline{
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.top-container{
+  background-color: powderblue;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.birds{
+  position:absolute;
+  top: 15px;
+  left: 100px;
+}
+.mountain{
+  height: 730px;
+  width: 1895px;
+
+}
+.topcloud{
+  position: absolute;
+  top: 20px;
+  right: 120px;
+  width: 400px;
+  height: 410px;
+
+}
+.bottomcloud{
+  position: absolute;
+  top: 250px;
+  left: 100px;
+  width: 400px;
+  height: 410px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+
+.myimage{
+  height: 200px;
+  width: 200px;
+}
+.c{
+  width: 25%;
+}
+.cplusplus{
+  width: 25%;
+
+}
+.java{
+  width: 25%;
+}
+.python{
+  width: 25%;
+}
+.html{
+  width: 25%;
+}
+.css{
+  width: 25%;
+}
+.linux{
+  width: 25%;
+}
+.swimming{
+  width: 25%;
+}
+.btn:hover{
+  background-color: gold;
+}
